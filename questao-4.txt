@@ -1,0 +1,21 @@
+Primeira ida:
+
+Ligo o primeiro interruptor e deixo ligado por alguns minutos.
+Depois, desligo o primeiro interruptor e ligo segundo interruptor.
+Ao retornar para a sala das lâmpadas, observo a lâmpada que está acesa.
+Agora, tem os seguintes três cenários:
+
+Se a lâmpada estiver acesa, o interruptor 2 controla essa lâmpada.
+Se a lâmpada estiver apagada e ainda estiver morna, o interruptor 1 controla essa lâmpada.
+Se a lâmpada estiver apagada e fria, o interruptor 3 controla essa lâmpada.
+
+
+Segunda ida:
+
+Agora, resta apenas um interruptor.
+Se, por exemplo, o interruptor 1 controla a lâmpada, ela estará morna.
+Se o interruptor 2 controla a lâmpada, ela estará acesa.
+Se não, o interruptor 3 controla a lâmpada, ela estará fria.
+
+
+com esses passos eu descobrirei para qual lampada está conectada cada interruptor
